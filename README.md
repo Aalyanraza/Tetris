@@ -38,9 +38,9 @@ https://www.sfml-dev.org/download.php
 ## Usage
 
 Run the following commands on ubunto terminal after installing the required libraries and hopefully your game will run
-g++ -c main.cpp
-g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
-./sfml-app
+<br />g++ -c main.cpp
+<br />g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+<br />./sfml-app
 
 
 ## Contributing
