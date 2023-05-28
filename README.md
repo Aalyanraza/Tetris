@@ -1,5 +1,5 @@
 # Tetris Game
-| Cat pics                                                                                                                                     | Dog pics                            |
+| Game Start                                                                                                                                    |   Mid Game                            |
 | ----------------------------------- | ----------------------------------- |
 | ![Cat Screenshot](https://github.com/Aalyanraza/Tetris/assets/114768774/a284098d-1f3c-4be4-94e0-cb516ef1a565.png) | ![Dog Screenshot](https://github.com/Aalyanraza/Tetris/assets/114768774/8663331e-1426-4677-ba74-f41932179bfe.png) |
 
