@@ -11,7 +11,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 
 ## Introduction
 
@@ -37,7 +37,7 @@ Run the following commands on ubunto terminal after installing the required libr
 <br />./sfml-app
 
 
-## Contributing
+## Contribution
 
 Thank you for your interest in contributing to the Tetris game project! Contributions are always welcome and can help improve the game further. To contribute, please follow these guidelines:
 
