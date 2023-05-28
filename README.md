@@ -1,8 +1,7 @@
 # Tetris Game
-| Cat pics                            | Dog pics                            |
+| Cat pics                                                                                                                                     | Dog pics                            |
 | ----------------------------------- | ----------------------------------- |
-| ![Screenshot 2023-05-28 191821](https://github.com/Aalyanraza/Tetris/assets/114768774/a284098d-1f3c-4be4-94e0-cb516ef1a565)
- | ![Screenshot 2023-05-28 192226](https://github.com/Aalyanraza/Tetris/assets/114768774/8663331e-1426-4677-ba74-f41932179bfe)
+| ![Cat Screenshot](https://github.com/Aalyanraza/Tetris/assets/114768774/a284098d-1f3c-4be4-94e0-cb516ef1a565.png) | ![Dog Screenshot](https://github.com/Aalyanraza/Tetris/assets/114768774/8663331e-1426-4677-ba74-f41932179bfe.png) |
 
 
 
