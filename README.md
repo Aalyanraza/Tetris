@@ -1,9 +1,8 @@
 # Tetris Game
-| Game Start                                                                                                                                    |   Mid Game                            |
-| ----------------------------------- | ----------------------------------- |
-| ![Gameplay 1](![Screenshot 2023-05-28 191821](https://github.com/user-attachments/assets/a007b845-b1db-4a55-a56d-578bb346b397))
- | ![Gameplay 2](![Screenshot 2023-05-28 192226](https://github.com/user-attachments/assets/cf1ecb33-7c44-4171-9f43-3db24ea82555)
-) |
+| Game Start                                                                                           | Mid Game                                                                                      |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ![Gameplay 1](https://github.com/user-attachments/assets/a007b845-b1db-4a55-a56d-578bb346b397) | ![Gameplay 2](https://github.com/user-attachments/assets/cf1ecb33-7c44-4171-9f43-3db24ea82555) |
+
 
 > This game was made as a part of first semester Programming Fundamentals course.
 
